@@ -1,0 +1,3 @@
+# Agriculture-Monitoring-and-Irrigation-automation-System-
+To develop an iot based project that will help us monitor the moisture in the soil and to irrigate it when necessary. 
+The detection of the moisture shall be done by the soil moisture sensor and if the water content is low then we can irrigate the plant with a nearby small water pump .
